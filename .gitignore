@@ -1,0 +1,10 @@
+*.php
+*.cfg
+*.png
+*.jpg
+*.exe
+*.dll
+*.json
+*.txt
+.vscode
+tags

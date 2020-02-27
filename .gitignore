@@ -7,5 +7,23 @@
 !*.md
 !*.txt
 
+#ignore standard maps
+ctf1.map
+ctf2.map
+ctf3.map
+ctf4.map
+ctf5.map
+ctf6.map
+ctf7.map
+ctf8.map
+dm1.map
+dm2.map
+dm3.map
+dm4.map
+dm5.map
+dm6.map
+dm7.map
+dm8.map
+
 # Add Subdirs, too!
 !*/

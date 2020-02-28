@@ -7,7 +7,7 @@
 !*.md
 !*.txt
 
-#ignore standard maps
+#ignore standard maps to prevent invalid standard maps! Push standard maps in subdirectories!
 ctf1.map
 ctf2.map
 ctf3.map
@@ -19,11 +19,11 @@ ctf8.map
 dm1.map
 dm2.map
 dm3.map
-dm4.map
-dm5.map
 dm6.map
 dm7.map
 dm8.map
+dm9.map
+lms1.map
 
 # Add Subdirs, too!
 !*/
